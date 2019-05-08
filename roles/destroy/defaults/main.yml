@@ -1,0 +1,3 @@
+template_output_dir: "{{ playbook_dir }}/_generated-templates"
+azure_subscription_id: 9cfdd2bf-eab4-4af6-84e8-39d7d8dd3d75
+azure_resource_region: "{{ azure_resource_region_base }}"

@@ -1,0 +1,6 @@
+
+azure_subscription_name: default
+azure_subscription_id: <subscriptionid>
+azure_resource_region_base: "West Europe"
+tag_name: environment
+tag_value: production

@@ -1,0 +1,5 @@
+- name: Destroy Azure storage account
+  azure_rm_deployment:
+    state: absent
+    subscription_id: "{{ azure_subscription_id }}"
+    resource_group_name: di-ansible-ci
